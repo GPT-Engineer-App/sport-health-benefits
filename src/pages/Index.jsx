@@ -32,6 +32,11 @@ const Index = () => {
             "Depuis que mes enfants pratiquent un sport régulièrement, je vois une nette amélioration de leur condition physique et de leur épanouissement." - Témoignage d'un parent
           </Text>
         </Box>
+        <Box bg="gray.50" p={4} mt={4}>
+          <Text fontSize="lg" fontStyle="italic">
+            "Depuis qu'il est tout petit mon fils a toujours aimé le sport, il a toujours eu cette envie de performer et de bouger. C'est pour cela que j'aimais l'inscrire à plusieurs activités sportives. De plus, étant moi-même un sportif depuis toujours, j'ai pu reprendre ce chemin avec mon fils." - Témoignage d'un père
+          </Text>
+        </Box>
       </Box>
 
       {/* Partie 3 */}
